@@ -17,7 +17,7 @@
 // console.log(yanglu.age)
 
 // class Girl {
-//     sayLove() {
+//     sayLo ve() {
 //       return "I Love you";
 //     }
 // }
